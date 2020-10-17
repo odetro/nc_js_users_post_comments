@@ -1,0 +1,15 @@
+div.user {
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+}
+
+div.user h3 {
+    margin-top: 0;
+}
+
+div.user .value_header {
+    color: #968c83;
+}

@@ -1,0 +1,8 @@
+li.post-li {
+    list-style: none;
+    border-bottom: 1px solid grey;
+}
+
+li.post-li:last-child {
+    border-bottom: none;
+} 

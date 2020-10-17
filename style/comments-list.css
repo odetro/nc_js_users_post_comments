@@ -1,0 +1,8 @@
+li.comment-li {
+    list-style: none;
+    border-bottom: 1px solid grey;
+}
+
+li.comment-li:last-child {
+    border-bottom: none;
+} 
