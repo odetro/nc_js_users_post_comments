@@ -13,3 +13,7 @@ div.user h3 {
 div.user .value_header {
     color: #968c83;
 }
+
+div.user:hover {
+    cursor: pointer;
+}

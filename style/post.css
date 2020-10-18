@@ -3,3 +3,7 @@ div.post {
     background-color: white;
     padding: 20px;
 }
+
+div.post:hover {
+    cursor: pointer;
+}
